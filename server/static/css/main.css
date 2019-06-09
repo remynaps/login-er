@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #B10DC9;
+}
+
+.content {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    justify-content: center;
+}
+
+.content > .hero-text{
+    font-size: 8em;
+    font-family: 'Alfa Slab One';
+    font-weight: 400;
+    color: #FFDC00;
+}
+
+.login-button {
+    font-family: 'Alfa Slab One';
+    width: 100px;
+    height: 50px;
+    border: 4px solid #FFDC00;;
+    cursor:pointer;
+    color: #FFDC00;
+    display: inline-block;
+}
