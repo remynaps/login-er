@@ -6,7 +6,7 @@ from urllib.parse import quote, urlencode
 from random_string import generate_random
 
 app = Flask(__name__)
-app.config.update(**config)
+# app.config.update(**config)
 
 @app.route("/")
 def home():
