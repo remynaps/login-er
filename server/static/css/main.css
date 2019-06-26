@@ -19,6 +19,10 @@ body {
     color: #FFDC00;
 }
 
+.green {
+    color: #01FF70;
+}
+
 .login-button {
     font-family: 'Alfa Slab One';
     width: 100px;
